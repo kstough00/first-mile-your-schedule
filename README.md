@@ -39,8 +39,8 @@ Study Groups are a great way to deepen your understanding of a concept as you pa
 
 You can view upcoming study groups here: [https://learn.co/study-groups](https://learn.co/study-groups), and will see two types of study groups listed.
 
-- Study group(s) run for a particular cohort (led by their Cohort Lead)
-- Study group(s) run by the Instructional team (marked as supplemental)
+- Study group(s) run for a particular cohort (led by their Cohort Lead). These study groups are live lectures provided by your Cohort Lead and cover topics that are currently being covered in the curriculum at the time they are delivered. They will be titled with your cohort start date and pace, e.g.: *[4/13 Full Time] - Live Lecture Topic*. 
+- Study group(s) run by the Instructional team (marked as supplemental). These study groups will cover topics in the curriculum and may or may not match where your cohort is in the curriculum at the time they are delivered. They will be titled with the word Supplemental, e.g.: *[Supplemental] - Live Lecture Topic*. 
 
 For study groups that are run specifically for the cohort, a recording will be made available via a link on the main Learn page. The recording will be available to those that would like to review a study group or if they are unable to attend live.
 
