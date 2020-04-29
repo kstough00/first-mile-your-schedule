@@ -11,7 +11,7 @@ Study Groups are a great way to deepen your understanding of a concept as you pa
 | **Full-Time** | | 11am - 12pm ET | 11am - 12pm ET | 11am - 12pm ET | 11am - 12pm ET |
 | **Part-Time** | | 6pm - 7pm ET |  | 6pm - 7pm ET |  |
 
-In addition to the cohort-based study groups, supplemental study groups will be hosted by additional members of the Online Instructional team. These will vary in day and time from week to week and are optional. For more information about study groups, refer to the Study Groups section below.
+In addition to the cohort-based study groups, supplemental study groups will be hosted by other members of the Online Instructional team. These will vary in day and time from week to week and are optional. For more information about study groups, refer to the Study Groups section below.
 
 # Weekly Pair Programming
 Pair programming is a highly valuable skill of a Software Engineer, and is commonly used on dev teams to optimize the end product and share knowledge across the team.  We want to provide you with as many chances to meet and collaborate with fellow cohort students as possible. 
