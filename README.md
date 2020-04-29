@@ -22,7 +22,7 @@ Every Monday, students in your cohort will be paired to work on a lab determined
 The Google calendar for your cohort will live on your Learn homepage (click on the Learn icon at the top left corner of the page to access the Learn homepage). This calendar will be a high level overview of the coming weeks and months and will include dates (and times) for study groups, events, holidays, portfolio project due dates, and anything else that might be important from a time standpoint. You can add this Google calendar to your Google calendar by clicking the “+Google Calendar” button on the bottom right corner of the calendar.
 
 # Scheduled Breaks
-Full-Time and Part-Time cohorts have a one-week break in instruction between Modules 3 and 4. Part-Time cohorts also have a one-week break in instruction between Modules 4 and 5. 
+Full-Time and Part-Time cohorts have a one-week break in instruction between Modules 2 and 3. Part-Time cohorts also have a one-week break in instruction between Modules 4 and 5. 
 
 During these breaks, there is no formal instruction or study groups.
 
