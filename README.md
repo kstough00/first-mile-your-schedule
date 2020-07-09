@@ -1,4 +1,4 @@
-# Your schedule
+# Your Schedule
 
 # Weekly Curriculum Assignments
 Lessons and labs will be released under your active track at the start of each module. The expectation is that students complete all of the labs and lessons released by the end of that module. Some lessons will be marked as “BONUS.” We recommend that you complete those lessons only after you have completed all other lessons and labs. Weekly curriculum assignments will be communicated via the Learn homepage (you can click on the Learn icon in the top left corner to access the Learn homepage).
